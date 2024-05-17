@@ -14,3 +14,7 @@ Data Collection: Using Google Forms to gather comprehensive data on consumer pre
 Data Analysis: Utilizing Power BI to perform detailed analysis and visualization of collected data.
 Customer Feedback Analysis: Implementing NLP models to analyze customer feedback, extract sentiments, and identify common themes.
 Insights Generation: Deriving actionable insights to guide the development of an E-commerce delivery application.
+
+**Technologies Used**
+
+Power BI
